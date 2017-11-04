@@ -14,8 +14,8 @@ public class Hello {
 	}
 	public static void main2(String[] args) {
 		System.out.println("hello");
-		System.out.println("hello1");
-		System.out.println("hello2");
+		System.out.println("hello11111111");
+		System.out.println("hello2222222222");
 	}
 
 }
